@@ -1,3 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JWH4kVvJ)
-# P5-empty-project
-This repository is the starting point of the assignments given in the course [Computergrafica per l'Information Design](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=834257&lang=IT&__pj0=0&__pj1=9c10fe379e96db59d55d49b6b4252c5e).
+![alt text](worms.png)
+A tribute to [Piet Mondrian](https://artsandculture.google.com/asset/composition-10-in-black-and-white/NgEozt-0sWt3eQ?hl=it&ms=%7B%22x%22%3A0.5%2C%22y%22%3A0.5%2C%22z%22%3A8.909146569548886%2C%22size%22%3A%7B%22width%22%3A1.311593959731544%2C%22height%22%3A1.2375000000000003%7D%7D), _Composition No. 10, Pier and Ocean_, 1914-15
