@@ -1,2 +1,1 @@
-![alt text](worms.png)
 A tribute to [Piet Mondrian](https://artsandculture.google.com/asset/composition-10-in-black-and-white/NgEozt-0sWt3eQ?hl=it&ms=%7B%22x%22%3A0.5%2C%22y%22%3A0.5%2C%22z%22%3A8.909146569548886%2C%22size%22%3A%7B%22width%22%3A1.311593959731544%2C%22height%22%3A1.2375000000000003%7D%7D), _Composition No. 10, Pier and Ocean_, 1914-15
